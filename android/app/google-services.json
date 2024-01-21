@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595950264914",
+    "project_id": "lost2found-81888",
+    "storage_bucket": "lost2found-81888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595950264914:android:6b783c01bb14a5a426358b",
+        "android_client_info": {
+          "package_name": "com.example.gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxj5EYFR7IUNRiPQaRk5voDoWmh_pIe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
